@@ -63,7 +63,7 @@ var AppRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<body class=\"hold-transition skin-blue sidebar-mini\">\n  <div class=\"wrapper\">\n    <app-header></app-header>\n    <app-sidebar></app-sidebar>\n    <app-content></app-content>\n    <app-footer></app-footer>\n    <app-control-sidebar></app-control-sidebar>\n<router-outlet></router-outlet>\n</div>\n</body>\n"
+module.exports = "<body class=\"hold-transition skin-blue sidebar-mini\">\n  <div class=\"wrapper\">\n    <app-header></app-header>\n    <app-sidebar></app-sidebar>\n    <app-content></app-content>\n    <app-footer></app-footer>\n    <app-control-sidebar></app-control-sidebar>\n</div>\n</body>\n<router-outlet></router-outlet>\n"
 
 /***/ }),
 
